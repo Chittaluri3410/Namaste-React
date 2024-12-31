@@ -1,5 +1,6 @@
 # Namaste React 
-
+# node_modules
+ 
 /**
  * Header
  * LOGO
